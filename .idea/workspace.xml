@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0c92608-37ed-494a-93b3-4e0b7a0a5f3b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/db/models/query.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="38ydGmh1Ia23ZfjdKF9CYzOcG2r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HM/Documents/Projects/simple_auditlog&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HM\Documents\Projects\simple_auditlog" />
+      <recent name="C:\Users\HM\Documents\Projects\simple_auditlog\core" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HM\Documents\Projects\simple_auditlog\testing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django tests.Test: testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests.test_one_to_one_delete_cascades_and_creates_audit">
+    <configuration name="Test: testing" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="simple_auditlog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="testing" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_many_to_many_field_only" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="simple_auditlog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_many_to_many_field_only" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_one_to_one_field_only" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="simple_auditlog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_one_to_one_field_only" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests.test_one_to_one_delete_cascades_and_creates_audit" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="simple_auditlog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests.test_one_to_one_delete_cascades_and_creates_audit" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: testing.tests.test_many_to_many.ManyToManyAuditTests" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="simple_auditlog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="testing.tests.test_many_to_many.ManyToManyAuditTests" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python manage.py migrate" type="PythonConfigurationType" factoryName="Python">
+      <module name="simple_auditlog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\HM\Documents\Projects\simple_auditlog\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (simple_auditlog)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="manage.py" />
+      <option name="PARAMETERS" value="migrate" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simple_auditlog" type="Python.DjangoServer" factoryName="Django server">
+      <module name="simple_auditlog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="simple_auditlog.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests.test_one_to_one_delete_cascades_and_creates_audit" />
+        <item itemvalue="Django tests.Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_many_to_many_field_only" />
+        <item itemvalue="Django tests.Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_one_to_one_field_only" />
+        <item itemvalue="Django tests.Test: testing" />
+        <item itemvalue="Django tests.Test: testing.tests.test_many_to_many.ManyToManyAuditTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0c92608-37ed-494a-93b3-4e0b7a0a5f3b" name="Changes" comment="" />
+      <created>1769775650839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769775650839</updated>
+      <workItem from="1769775651810" duration="7200000" />
+      <workItem from="1770213656960" duration="17620000" />
+      <workItem from="1770288446990" duration="29748000" />
+      <workItem from="1770372335365" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testing/tests/test_comprehensive_fields.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__auditlog_tests_test_comprehensive_fields_SimpleTest.coverage" NAME="Test: auditlog.tests.test_comprehensive_fields.SimpleTest Coverage Results" MODIFIED="1770290105158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_many_to_many_ManyToManyAuditTests_test_post_add_records_added_pks.coverage" NAME="Test: testing.tests.test_many_to_many.ManyToManyAuditTests.test_post_add_records_added_pks Coverage Results" MODIFIED="1770296865113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_comprehensive_fields_ComprehensiveFieldAuditTests_test_create_audits_one_to_one_field_only.coverage" NAME="Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_one_to_one_field_only Coverage Results" MODIFIED="1770326138167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_fk_and_delete_ForeignKeyAndDeleteAuditTests_test_object_id_is_string_on_delete.coverage" NAME="Test: testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests.test_object_id_is_string_on_delete Coverage Results" MODIFIED="1770322107251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_comprehensive_fields_ComprehensiveFieldAuditTests.coverage" NAME="Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests Coverage Results" MODIFIED="1770323971444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_comprehensive_fields_ComprehensiveFieldAuditTests_test_create_audits_many_to_many_field_only.coverage" NAME="Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_many_to_many_field_only Coverage Results" MODIFIED="1770326611296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_delete_BulkDeleteAuditTests.coverage" NAME="Test: testing.tests.test_bulk_delete.BulkDeleteAuditTests Coverage Results" MODIFIED="1770304662703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__auditlog_tests.coverage" NAME="Test: auditlog.tests Coverage Results" MODIFIED="1770238102405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_many_to_many_ManyToManyAuditTests_test_clear_m2m_field.coverage" NAME="Test: testing.tests.test_many_to_many.ManyToManyAuditTests.test_clear_m2m_field Coverage Results" MODIFIED="1770300197765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_many_to_many_ManyToManyAuditTests.coverage" NAME="Test: testing.tests.test_many_to_many.ManyToManyAuditTests Coverage Results" MODIFIED="1770324128356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_operations_BulkOperationsAuditTests_test_queryset_all_delete_creates_audit_records.coverage" NAME="Test: testing.tests.test_bulk_operations.BulkOperationsAuditTests.test_queryset_all_delete_creates_audit_records Coverage Results" MODIFIED="1770319318316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_fk_and_delete_ForeignKeyAndDeleteAuditTests_test_deleting_foreign_key_object_does_not_create_audit_for_related_model.coverage" NAME="Test: testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests.test_deleting_foreign_key_object_does_not_create_audit_for_related_model Coverage Results" MODIFIED="1770322117246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_operations_BulkOperationsAuditTests_test_queryset_all_update_creates_audit_records.coverage" NAME="Test: testing.tests.test_bulk_operations.BulkOperationsAuditTests.test_queryset_all_update_creates_audit_records Coverage Results" MODIFIED="1770318981869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_fk_and_delete_ForeignKeyAndDeleteAuditTests_test_cascade_delete_from_foreign_key_creates_audit.coverage" NAME="Test: testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests.test_cascade_delete_from_foreign_key_creates_audit Coverage Results" MODIFIED="1770322394894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests.coverage" NAME="Test: testing.tests Coverage Results" MODIFIED="1770322488753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_comprehensive_fields_ComprehensiveFieldAuditTests_test_create_audits_fk_field_only.coverage" NAME="Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_fk_field_only Coverage Results" MODIFIED="1770295834140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_many_to_many_ManyToManyAuditTests_test_remove_single_object_from_m2m_field_after_creation.coverage" NAME="Test: testing.tests.test_many_to_many.ManyToManyAuditTests.test_remove_single_object_from_m2m_field_after_creation Coverage Results" MODIFIED="1770299017057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_many_to_many_ManyToManyAuditTests_test_remove_multiple_objects_from_m2m_field_after_creation.coverage" NAME="Test: testing.tests.test_many_to_many.ManyToManyAuditTests.test_remove_multiple_objects_from_m2m_field_after_creation Coverage Results" MODIFIED="1770299539854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$python_manage_py_migrate.coverage" NAME="python manage.py migrate Coverage Results" MODIFIED="1769783856399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_comprehensive_fields_ComprehensiveFieldAuditTests_test_create_audits_all_native_fields_only.coverage" NAME="Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_all_native_fields_only Coverage Results" MODIFIED="1770296724557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_comprehensive_fields_ComprehensiveFieldAuditTests_test_noop_save_creates_no_audit_record.coverage" NAME="Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_noop_save_creates_no_audit_record Coverage Results" MODIFIED="1770296733034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_fk_and_delete_ForeignKeyAndDeleteAuditTests_test_deleting_comprehensive_model_creates_delete_audit.coverage" NAME="Test: testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests.test_deleting_comprehensive_model_creates_delete_audit Coverage Results" MODIFIED="1770303889222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_comprehensive_fields_ComprehensiveFieldAuditTests_test_create_audits_all_fields_with_correct_serialization.coverage" NAME="Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_all_fields_with_correct_serialization Coverage Results" MODIFIED="1770291599752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_fk_and_delete_ForeignKeyAndDeleteAuditTests.coverage" NAME="Test: testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests Coverage Results" MODIFIED="1770324061430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_operations_BulkOperationsAuditTests_test_bulk_update_creates_audit_only_for_changed_objects.coverage" NAME="Test: testing.tests.test_bulk_operations.BulkOperationsAuditTests.test_bulk_update_creates_audit_only_for_changed_objects Coverage Results" MODIFIED="1770316031565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_fk_and_delete_ForeignKeyAndDeleteAuditTests_test_deleting_model_creates_delete_audit.coverage" NAME="Test: testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests.test_deleting_model_creates_delete_audit Coverage Results" MODIFIED="1770322182276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_many_to_many_ManyToManyAuditTests_test_add_single_object_to_m2m_field_after_creation.coverage" NAME="Test: testing.tests.test_many_to_many.ManyToManyAuditTests.test_add_single_object_to_m2m_field_after_creation Coverage Results" MODIFIED="1770299104717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_many_to_many_ManyToManyAuditTests_test_add_multiple_objects_together_to_m2m_field_after_creation.coverage" NAME="Test: testing.tests.test_many_to_many.ManyToManyAuditTests.test_add_multiple_objects_together_to_m2m_field_after_creation Coverage Results" MODIFIED="1770299014062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_operations_BulkOperationsAuditTests.coverage" NAME="Test: testing.tests.test_bulk_operations.BulkOperationsAuditTests Coverage Results" MODIFIED="1770322416729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_comprehensive_fields_ComprehensiveFieldAuditTests_test_update_only_marks_modified_fields.coverage" NAME="Test: testing.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_update_only_marks_modified_fields Coverage Results" MODIFIED="1770296604165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_fk_and_delete_ForeignKeyAndDeleteAuditTests_test_one_to_one_delete_cascades_and_creates_audit.coverage" NAME="Test: testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests.test_one_to_one_delete_cascades_and_creates_audit Coverage Results" MODIFIED="1770326920454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_delete_BulkDeleteAuditTests_test_queryset_delete_creates_no_audit_records.coverage" NAME="Test: testing.tests.test_bulk_delete.BulkDeleteAuditTests.test_queryset_delete_creates_no_audit_records Coverage Results" MODIFIED="1770304555604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing.coverage" NAME="Test: testing Coverage Results" MODIFIED="1770324635630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__auditlog_tests_test_comprehensive_fields_ComprehensiveFieldAuditTests.coverage" NAME="Test: auditlog.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests Coverage Results" MODIFIED="1770290275907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_fk_and_delete_ForeignKeyAndDeleteAuditTests_test_deleting_related_model_does_not_create_duplicate_audits.coverage" NAME="Test: testing.tests.test_fk_and_delete.ForeignKeyAndDeleteAuditTests.test_deleting_related_model_does_not_create_duplicate_audits Coverage Results" MODIFIED="1770322220815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__auditlog_tests_test_comprehensive_fields_ComprehensiveFieldAuditTests_test_create_audits_all_fields_with_correct_serialization2.coverage" NAME="Test: auditlog.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_all_fields_with_correct_serialization2 Coverage Results" MODIFIED="1770290904437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_operations_BulkOperationsAuditTests_test_queryset_filter_delete_creates_audit_records.coverage" NAME="Test: testing.tests.test_bulk_operations.BulkOperationsAuditTests.test_queryset_filter_delete_creates_audit_records Coverage Results" MODIFIED="1770319363811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_delete_BulkDeleteAuditTests_test_individual_delete_still_creates_audit.coverage" NAME="Test: testing.tests.test_bulk_delete.BulkDeleteAuditTests.test_individual_delete_still_creates_audit Coverage Results" MODIFIED="1770304377456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_delete_BulkDeleteAuditTests_test_queryset_delete_creates_audit_records.coverage" NAME="Test: testing.tests.test_bulk_delete.BulkDeleteAuditTests.test_queryset_delete_creates_audit_records Coverage Results" MODIFIED="1770305556741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_operations_BulkOperationsAuditTests_test_bulk_update_creates_audit_records.coverage" NAME="Test: testing.tests.test_bulk_operations.BulkOperationsAuditTests.test_bulk_update_creates_audit_records Coverage Results" MODIFIED="1770305860232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_operations_BulkOperationsAuditTests_test_queryset_filter_update_creates_audit_records.coverage" NAME="Test: testing.tests.test_bulk_operations.BulkOperationsAuditTests.test_queryset_filter_update_creates_audit_records Coverage Results" MODIFIED="1770319113788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_operations.coverage" NAME="Test: testing.tests.test_bulk_operations Coverage Results" MODIFIED="1770322503723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_bulk_operations_BulkOperationsAuditTests_test_bulk_create_creates_audit_records.coverage" NAME="Test: testing.tests.test_bulk_operations.BulkOperationsAuditTests.test_bulk_create_creates_audit_records Coverage Results" MODIFIED="1770319716967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_many_to_many_ManyToManyAuditTests_test_post_clear_records_clear.coverage" NAME="Test: testing.tests.test_many_to_many.ManyToManyAuditTests.test_post_clear_records_clear Coverage Results" MODIFIED="1770299686723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__auditlog_tests_test_comprehensive_fields_ComprehensiveFieldAuditTests_test_create_audits_all_fields_with_correct_serialization.coverage" NAME="Test: auditlog.tests.test_comprehensive_fields.ComprehensiveFieldAuditTests.test_create_audits_all_fields_with_correct_serialization Coverage Results" MODIFIED="1770291325637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_auditlog$Test__testing_tests_test_many_to_many_ManyToManyAuditTests_test_add_multiple_objects_one_by_one_to_m2m_field_after_creation.coverage" NAME="Test: testing.tests.test_many_to_many.ManyToManyAuditTests.test_add_multiple_objects_one_by_one_to_m2m_field_after_creation Coverage Results" MODIFIED="1770322523678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
